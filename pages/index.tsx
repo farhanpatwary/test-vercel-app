@@ -20,7 +20,7 @@ export default function Home() {
           Get started by editing{" "}
           <code className={styles.code}>pages/index.tsx</code>
         </p>
-        <p>test change no: 1</p>
+        <p>test change no: 2</p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
